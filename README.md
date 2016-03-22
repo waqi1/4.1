@@ -3,5 +3,5 @@
 
 #具体分析
 我们先不考虑b对人口的影响，建立如下程序
-![人口增值]()
+![人口增值](https://github.com/waqi1/4.1/blob/master/%E4%BA%BA%E5%8F%A3%E7%A8%B3%E5%AE%9A%20(1).png)
 ![人口稳定]()
